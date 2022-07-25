@@ -9,7 +9,12 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 /*
-
+ Name: DriverScript
+ Developed By: Siva
+ Reviewed by: Si
+ Created By: 06/29/22
+ updated:
+ description:This is responsible for all delivery activities. 
  */
 public class DriverScript {
 
