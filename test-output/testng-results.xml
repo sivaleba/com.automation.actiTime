@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-22T11:07:31 CDT" name="Default suite" finished-at="2022-07-22T11:08:19 CDT" duration-ms="48194">
+    <groups>
+    </groups>
+    <test started-at="2022-07-22T11:07:31 CDT" name="Default test" finished-at="2022-07-22T11:08:19 CDT" duration-ms="48194">
+      <class name="com.demoacti.tests.Taskpagetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.demoacti.tests.Taskpagetest@2a54a73f]" started-at="2022-07-22T11:07:31 CDT" name="setup" finished-at="2022-07-22T11:07:40 CDT" duration-ms="9623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcreatecustomer()[pri:0, instance:com.demoacti.tests.Taskpagetest@2a54a73f]" started-at="2022-07-22T11:07:40 CDT" name="testcreatecustomer" finished-at="2022-07-22T11:07:50 CDT" duration-ms="9958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreatecustomer -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.demoacti.tests.Taskpagetest@2a54a73f]" started-at="2022-07-22T11:07:50 CDT" name="teardown" finished-at="2022-07-22T11:07:50 CDT" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.demoacti.tests.Taskpagetest@2a54a73f]" started-at="2022-07-22T11:07:50 CDT" name="setup" finished-at="2022-07-22T11:07:55 CDT" duration-ms="4882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testdeletecustomer()[pri:2, instance:com.demoacti.tests.Taskpagetest@2a54a73f]" started-at="2022-07-22T11:07:55 CDT" name="testdeletecustomer" finished-at="2022-07-22T11:08:19 CDT" duration-ms="23403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdeletecustomer -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.demoacti.tests.Taskpagetest@2a54a73f]" started-at="2022-07-22T11:08:19 CDT" name="teardown" finished-at="2022-07-22T11:08:19 CDT" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demoacti.tests.Taskpagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
